@@ -7,6 +7,6 @@ Contents:
 
 Part A summary: Bloom effect with outline shader. The intensity and treshold of the bloom effect are controllable in-scene
 
-Part B summary: Terrain created from a texture generated from perlin noise at runtime. The camera and paremeters of the terrain generation can be controlled in-scene with various sliders and buttons
+Part B summary: Terrain created from a texture generated from perlin noise at runtime. The camera and parameters of the terrain generation can be controlled in-scene with various sliders and buttons
 
 Sybox Texture from: Heiko Irrgang
